@@ -1,4 +1,5 @@
 # Master's Student in Data Science 
+### Technical Skills: Python, SQL, AWS, R/RStudio 
 
 ## Education 
 Master of Data Science and Analytics \
