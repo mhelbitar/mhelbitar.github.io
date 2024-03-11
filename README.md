@@ -13,7 +13,9 @@ University of Calgary, 2020
 ### Email Spam Detection 
 -Implemented Logistic Regression, Linear Discriminant Analysis (LDA), and Decision Trees using R.\
 -Developed multiple models to classify emails as spam or non-spam.\
--Achieved an accuracy of 93% on the test dataset.
+-Achieved an accuracy of 93% on the test dataset.\
+-The analysis suggested that combining LDA and decision-tree models could significantly enhance the accuracy of email spam detection systems, emphasizing the importance of model selection in predictive analytics and paving the way for future research into refining spam filtering algorithms.
+
 
 ### City of Calgary Traffic Analysis 
 -Analyzed traffic patterns in the City of Calgary using data analytics techniques.\
